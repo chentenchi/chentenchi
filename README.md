@@ -11,7 +11,7 @@ AI-powered document processing workflow that validates tax notices, extracts str
 
 **Tools:** Generative AI, Prompt Engineering, Document Processing, Excel, Word
 
-[View Project](/chentenchi/tax-notice-assistant-gpt)
+[View Project]([/chentenchi/tax-notice-assistant-gpt](https://github.com/chentenchi/clash-royale-ml-pipeline))
 
 ### 📊 Grocery Price Tracker
 End-to-end analytics project using automated ETL to collect grocery pricing data and visualize historical pricing trends in Tableau.
