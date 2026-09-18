@@ -11,21 +11,21 @@ AI-powered document processing workflow that validates tax notices, extracts str
 
 **Tools:** Generative AI, Prompt Engineering, Document Processing, Excel, Word
 
-[View Project]([/chentenchi/tax-notice-assistant-gpt](https://github.com/chentenchi/clash-royale-ml-pipeline))
+[View Project](https://github.com/chentenchi/tax-notice-assistant-gpt)
 
 ### 📊 Grocery Price Tracker
 End-to-end analytics project using automated ETL to collect grocery pricing data and visualize historical pricing trends in Tableau.
 
 **Tools:** Python, Pandas, REST APIs, SQLite, Tableau
 
-[View Project](/chentenchi/Grocery-Price-Tracker)
+[View Project](https://github.com/chentenchi/Grocery-Price-Tracker)
 
 ### ☁️ Clash Royale ML Pipeline
 End-to-end machine learning pipeline built with Google Cloud and PySpark to process large-scale match data and predict match outcomes.
 
 **Tools:** Python, PySpark, Spark MLlib, Google Cloud
 
-[View Project](/chentenchi/clash-royale-ml-pipeline)
+[View Project](https://github.com/chentenchi/clash-royale-ml-pipeline)
 
 ## Skills
 
