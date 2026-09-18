@@ -2,7 +2,7 @@
 
 I'm a data analyst focused on using **Python, SQL, Tableau, machine learning, and applied AI** to turn data into practical business solutions.
 
-My background includes both **analytics and HR/People Operations**, which has given me experience working with business stakeholders, operational data, and real-world processes. I'm currently focused on continuing to grow in data analytics, data science, and AI-focused roles.
+My background includes both **analytics and HR/People Operations**, which has given me experience working with business stakeholders, operational data, and real-world processes. I’m focused on growing in analytics, data science, and applied AI roles.
 
 ## Featured Projects
 
@@ -29,11 +29,11 @@ End-to-end machine learning pipeline built with Google Cloud and PySpark to proc
 
 ## Skills
 
-**Languages & Data:** Python · SQL · R · Excel  
-**Analytics & BI:** Tableau · Pandas · Data Visualization  
-**Machine Learning:** scikit-learn · PySpark · Spark MLlib  
-**AI:** Generative AI · LLMs · Prompt Engineering · Document AI  
-**Tools:** Git · GitHub · Google Cloud · SQL Server
+- **Languages & Data:** Python · SQL · R · Excel
+- **Analytics & BI:** Tableau · Pandas · Data Visualization
+- **Machine Learning:** scikit-learn · PySpark · Spark MLlib
+- **AI:** Generative AI · LLMs · Prompt Engineering · Document AI
+- **Tools:** Git · GitHub · Google Cloud · SQL Server
 
 ## Connect With Me
 
